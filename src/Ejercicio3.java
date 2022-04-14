@@ -45,11 +45,6 @@ public class Ejercicio3 {
 		// Una vez finalizado el añadir productos, podemos consultar precio o cantidad
 		String productoConsultado = JOptionPane.showInputDialog("Introduce el nombre del artículo que deseas consultar:");
 		
-		if (productadoConsultado == listaArticulos.get("")) {
-			
-		}
-		
-		
 		
 		
 	}
